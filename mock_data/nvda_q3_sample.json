@@ -1,0 +1,39 @@
+{
+  "ticker": "NVDA",
+  "quarter": "Q3 FY2025",
+  "revenue": "$35.08B",
+  "eps_actual": 0.81,
+  "eps_estimate": 0.75,
+  "eps_surprise_pct": 8.0,
+  "stock_price": "$145.89",
+  "price_change_pct": 2.45,
+  "guidance_summary": "Q4 revenue projected at $37.5B (+/- 2%), driven by robust Blackwell AI architecture demand.",
+  "bull_case": {
+    "analyst_name": "Brenda",
+    "key_catalysts": [
+      "Data Center revenue surged 112% year-over-year to $30.8 billion",
+      "Massive hyperscaler capex commitments from Microsoft, Meta, and Alphabet",
+      "Full Blackwell production ramp underway with demand outstripping supply into 2026"
+    ],
+    "topline_growth_highlight": "Data Center segment revenue grew 112% YoY",
+    "bull_thesis": "Nvidia continues to set the standard for accelerated computing. The Blackwell transition represents an unprecedented demand supercycle with pristine gross margins remaining above 73%."
+  },
+  "bear_case": {
+    "analyst_name": "Sam",
+    "key_risks": [
+      "Gross margins contracted slightly sequentially from 75.1% to 74.6%",
+      "Customer concentration risk: top 4 cloud providers represent over 40% of sales",
+      "Elevated valuation multiples leave zero tolerance for any Blackwell supply-chain friction"
+    ],
+    "valuation_headwind": "Trading at ~35x forward sales and 48x trailing earnings",
+    "bear_thesis": "While current numbers are stellar, gross margins are peaking and hyperscalers will eventually rationalize their AI capex. At these valuation heights, any slight margin compression could spark severe multiple compression."
+  },
+  "historical_prices": [
+    {"date": "2024-10-15", "close": 131.60, "volume": 42000000},
+    {"date": "2024-10-22", "close": 137.50, "volume": 48000000},
+    {"date": "2024-10-29", "close": 139.30, "volume": 45000000},
+    {"date": "2024-11-05", "close": 141.20, "volume": 51000000},
+    {"date": "2024-11-12", "close": 143.80, "volume": 53000000},
+    {"date": "2024-11-20", "close": 145.89, "volume": 68000000}
+  ]
+}
